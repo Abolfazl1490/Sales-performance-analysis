@@ -44,7 +44,7 @@ Key Findings
 
 Files
 
-- "Sales_Performance_Profitability.pbix" — Power BI report
+- Sales_Performance_Dashboard.pbix — Power BI report
 - "dashboard-preview.png" — Dashboard screenshot
 
 How to Use
