@@ -11,16 +11,13 @@ The dashboard is designed to help users monitor key performance indicators (KPIs
 
 Dashboard Preview
 
-"Sales Performance and Profitability Dashboard" (dashboard-preview.png)
+"Sales Performance and Profitability Dashboard" (Dashboard.view.png)
 
 Tools & Technologies
 
 - Microsoft Power BI
 - DAX (Data Analysis Expressions)
 - Data visualization and business intelligence
-- [Add Excel or SQL only if actually used in this project]
-
-Key Features
 
 - Sales, profit, order count, and profit margin KPIs
 - Regional sales performance and target comparisons
@@ -40,12 +37,18 @@ Business Questions
 
 Key Findings
 
-[Add 3–5 verified findings after validating the dashboard calculations.]
+- Online Channel Performance: The online channel accounts for 55.83% of total sales, highlighting its significant contribution to overall revenue.
+- Regional Performance: The West region records the lowest sales, at approximately $302.7K, and the highest return rate, making it a key area for further investigation.
+- Shipping Method Analysis: Standard shipping accounts for 63.68% of total orders, representing the most widely used shipping method.
+- Profitability: The overall profit margin is 27.21%, providing an overview of the business's profitability.
+
+These findings highlight key patterns in sales performance, regional results, shipping preferences, and profitability.
+
 
 Files
 
 - Sales_Performance_Dashboard.pbix — Power BI report
-- "dashboard-preview.png" — Dashboard screenshot
+- Dashboard.view.png — Dashboard screenshot
 
 How to Use
 
